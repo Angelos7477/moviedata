@@ -43,10 +43,7 @@ Use `schema.sql`:
 
 4. Configure environment variables:
 
-Create a `.env` file in the root folder with:
-
-DB_NAME=moviedata DB_USER=your_postgres_user DB_PASSWORD=your_password DB_HOST=localhost DB_PORT=5432 TMDB_API_KEY=your_tmdb_api_key OMDB_API_KEY=your_omdb_api_key # Optional, but recommended
-
+Copy the provided `.env.example` file and fill in your credentials:
 
 ---
 
