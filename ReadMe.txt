@@ -36,6 +36,7 @@ Setup Instructions
 
 pip install -r requirements.txt
 
+
 3. Create a PostgreSQL database (e.g., `moviedata`) and run the schema:
 
 Use `schema.sql`:
