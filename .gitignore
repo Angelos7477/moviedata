@@ -1,0 +1,25 @@
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 💾 Virtual environments
+.venv/
+env/
+venv/
+
+# 🔐 Environment config
+.env
+
+# 📦 Dependency logs (optional)
+*.log
+logs/
+
+# 🧪 Test files
+*.pytest_cache/
+.coverage
+
+# 💡 IDE/editor-specific (optional but helpful)
+.vscode/
+.idea/
+.DS_Store
