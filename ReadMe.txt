@@ -30,7 +30,7 @@ Requirements
 Setup Instructions
 ------------------
 
-1. Clone the project or extract the files to your local machine.
+1. Clone the project or extract the files to your local machine. (https://github.com/Angelos7477/moviedata)
 
 2. Install Python dependencies:
 
@@ -70,7 +70,7 @@ python viewer.py
 
 This will:
 - Display each movie with its description, ratings, and directors
-- Indicate if the IMDb rating was a fallback (e.g., `~7.3`)
+- Ratings marked with ~ indicate fallback to TMDB vote_average
 
 ---
 
