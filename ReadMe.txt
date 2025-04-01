@@ -46,6 +46,9 @@ Use `schema.sql`:
 
 Copy the provided `.env.example` file and fill in your credentials:
 
+An OMDb API key is optional, but recommended for enhanced ratings.
+You can get one at http://www.omdbapi.com/apikey.aspx and set it in your `.env`.
+
 ---
 
 How to Use
